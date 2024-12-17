@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/zhyzhma/type-converter.git"
   },
-  "activationEvents": [],
+  "activationEvents": [
+    "*"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
